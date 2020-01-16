@@ -1,3 +1,4 @@
+#see juypter notebook for documentation
 import pandas as pd
 from bs4 import BeautifulSoup
 from splinter import Browser
